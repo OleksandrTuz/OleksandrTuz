@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OleksandrTuz
-- 👀 I’m interested in Quality Assurance
+- 👀 I’m interested in Software Industry with Quality Assurance
 - 🌱 I’m currently learning Manual QA & Automation QA
 - 💞️ I’m looking to collaborate in this area
 - 📫 How to reach me https://www.linkedin.com/in/oleksandr-tuz-info/
